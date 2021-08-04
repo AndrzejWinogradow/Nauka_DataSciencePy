@@ -82,7 +82,8 @@ To do:
 List of courses, workshops and tutorials: 
 
 - [Python101 Centrum Edukacji Obywatelskiej Bednarz/Rybicka i inni](https://python101.readthedocs.io/pl/latest/index.html)
-- 
+- [Podstawy analizy danych w języku Python, Matt Harasymczuk](https://www.youtube.com/c/MattHarasymczuk/videos), [@Matt Harasymczuk](https://github.com/AstroMatt)
+- [Podstawy statystyki w Data Science, Adrian Cypcar](https://futurecollars.com/pl/)
 
 ## Contact
 Created by [@AndrzejWinogradow](https://github.com/AndrzejWinogradow) - feel free to contact me!
