@@ -28,12 +28,15 @@ List of courses, workshops and tutorials can be read in acknowledgements
 
 ## List of Projects with description
 
-- Nauka_DataSciencePy_Python101_funkcjakwadratowa.py chart of quadratic function
-- Nauka_DataSciencePy_Python101_funkcjaliniowa.py chart of linear function
-- Nauka_DataSciencePy_Python101_ocenyfun.py module for sr_mediana_ochstan
-- Nauka_DataSciencePy_Python101_pylab02.py chart of two funcions in different range
-- Nauka_DataSciencePy_Python101_ruchyBrowna.py Brown movements chart
-- Nauka_DataSciencePy_Python101_sr_mediana_odchstan.py average median and standard deviation
+- Python101 tutorial ( ./Nauka_DataScience_Python101/ )
+  - Nauka_DataSciencePy_Python101_funkcjakwadratowa.py chart of quadratic function
+  - Nauka_DataSciencePy_Python101_funkcjaliniowa.py chart of linear function
+  - Nauka_DataSciencePy_Python101_ocenyfun.py module for sr_mediana_ochstan
+  - Nauka_DataSciencePy_Python101_pylab02.py chart of two funcions in different range
+  - Nauka_DataSciencePy_Python101_ruchyBrowna.py Brown movements chart
+  - Nauka_DataSciencePy_Python101_sr_mediana_odchstan.py average median and standard deviation
+- Pandas ( ./Nauka_DataScience_Pandas/ )
+
 
 
 <!--## Features
