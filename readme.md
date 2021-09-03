@@ -17,8 +17,10 @@ List of courses, workshops and tutorials can be read in acknowledgements
 ## Technologies Used
 
 - Git version 2.32.0.windows.2
+- JupyterLab 3.1.10
 - MatPlotLib 3.4.2
 - NumPy 1.21.1
+- Pandas 1.3.2
 - Python 3.9.6
 - PyCharm 2021.1.3
 - Visual Studio Code 1.58.2
