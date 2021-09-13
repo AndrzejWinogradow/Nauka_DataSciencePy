@@ -38,7 +38,9 @@ List of courses, workshops and tutorials can be read in acknowledgements
   - Nauka_DataSciencePy_Python101_ruchyBrowna.py Brown movements chart
   - Nauka_DataSciencePy_Python101_sr_mediana_odchstan.py average median and standard deviation
 - Pandas ( ./Nauka_DataScience_Pandas/ )
-
+  - Pandas Demo.ipynb basic dataframe manipulation based on survey from Stack Overflow
+  - snippets.ipynb list of commands to remember
+  - 
 
 
 <!--## Features
@@ -89,6 +91,7 @@ List of courses, workshops and tutorials:
 - [Python101 Centrum Edukacji Obywatelskiej Bednarz/Rybicka i inni](https://python101.readthedocs.io/pl/latest/index.html)
 - [Podstawy analizy danych w języku Python, Matt Harasymczuk](https://www.youtube.com/c/MattHarasymczuk/videos), [@Matt Harasymczuk](https://github.com/AstroMatt)
 - [Podstawy statystyki w Data Science, Adrian Cypcar](https://futurecollars.com/pl/)
+- [Python Pandas Tutorial, Corey Schafer](https://coreyms.com/)
 
 ## Contact
 Created by [@AndrzejWinogradow](https://github.com/AndrzejWinogradow) - feel free to contact me!
